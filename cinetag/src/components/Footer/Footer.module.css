@@ -1,0 +1,8 @@
+.Footer {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: var(--black);
+    color: var(--white)
+}
